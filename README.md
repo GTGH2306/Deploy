@@ -1,1 +1,2 @@
 # Deploy
+[![build ApiCountries](https://github.com/GTGH2306/Deploy/actions/workflows/apicountries-build-and-test.yml/badge.svg)](https://github.com/GTGH2306/Deploy/actions/workflows/apicountries-build-and-test.yml)
